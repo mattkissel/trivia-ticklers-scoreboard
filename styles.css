@@ -184,8 +184,13 @@ input:focus, select:focus {
 .prize:nth-child(2) { border-color: var(--cyan); }
 .prize:nth-child(3) { border-color: var(--magenta); }
 .prize:nth-child(4) { border-color: var(--green); }
+.prize:nth-child(5) { border-color: var(--violet); }
+.prize:nth-child(6) { border-color: var(--orange); }
+.prize:nth-child(7) { border-color: var(--blue); }
 
-
+#bubble-svg{
+    max-width: 100%;
+}
 #tooltip {
   position: absolute;
   background: var(--base02);

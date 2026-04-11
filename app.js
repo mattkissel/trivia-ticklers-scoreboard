@@ -9,15 +9,24 @@ function renderLastUpdated(date) {
 }
 
 function renderAwardCards(data) {
-    const leader= data.scores[0];
-    document.getElementById('leader').textContent = `
-        ${data.scores[0].name} 
-        with  ${data.scores[0].matchesWon} match won
-        and  ${data.scores[0].totalPoints} points`;
-
-
+    const leader = data.scores[0];
 
     const maxPoints = Math.max(...data.scores.map(p => p.totalPoints));
+    const maxMatchesWon = leader.matchesWon;
+    
+    const leaders = data.scores.filter(p => p.totalPoints === maxPoints && p.matchesWon === maxMatchesWon);
+    document.getElementById('leader-info').innerHTML = `${maxMatchesWon} match won, ${maxPoints} scored`;
+    const leaderHtml = document.getElementById('leader-players');
+    leaderHtml.innerHTML = leaders.map(player => `
+        <div class="card-player">
+            ${player.name}
+        </div>
+    `).join(''
+    );
+
+
+
+
     const pointLeaders = data.scores.filter(p => p.totalPoints === maxPoints);
     const scorerhtml = document.getElementById('top-scorers');
     document.getElementById('top-score').innerHTML = maxPoints;
