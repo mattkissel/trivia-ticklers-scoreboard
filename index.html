@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trivia Ticklers Scoreboard</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <link rel="icon" type="image/x-icon" href="/imgs/favicon.ico">
+</head>
+<body>
+  <header>
+    <h1>Trivia Ticklers 2026 Scoreboard
+    </h1>
+    <p id="last-updated"></p>
+  </header>
+
+  <main>
+    <section id="bubble-chart">
+    <h2>The Field</h2>
+    <svg id="bubble-svg"></svg>
+    <div id="tooltip" style="position:absolute; display:none; pointer-events:none;"></div>
+  </section>
+    <section id="highlights">
+      <h2>Awards</h2>
+      <!-- stat cards go here -->
+       <div id="stat-card-container">
+       <article class="stat-card">
+          <h3>Current Leader(s)</h3>
+          <p id="leader">Loading...</p>
+        </article>
+        <article class="stat-card">
+          <h3>Most Questions Perfectly Answered</h3>
+          <p id="perfect-answers-count">Loading...</p>
+          <p id="perfect-answers-players">Loading...</p>
+        </article>
+        <article class="stat-card">
+          <h3>Partial Credit Queen</h3>
+          <p id="partial-credit-count">Loading...</p>
+          <p id="partial-credit">Loading...</p>
+        </article>
+        <article class="stat-card">
+        <h3>Top Scorers</h3>
+          <p id="top-score"></p>
+          <p id="top-scorers">Loading...</p>
+        </article>
+        <article class="stat-card">
+        <h3>Ultimate Slackers</h3>
+          <p id="slacker-weeks"></p>
+          <p id="slacker-players">Loading...</p>
+        </article>
+        <article class="stat-card">
+          <h3>Not a Loser, Not a Winner</h3>
+          <p id="most-tied-count">Loading...</p>
+          <p id="most-tied-players">Loading...</p>
+        </article>
+        </div>
+    </section>
+
+    <section id="bubble-chart">
+      <!-- D3 goes here -->
+    </section>
+    <section id="prizes">
+      <h2>Available Prizes</h2>
+      <ul>
+        <li class="prize">The Rights to a Kissel Original Song</li>
+        <li class="prize">A picture of a person you don't know</li>
+        <li class="prize">An NFT</li>
+        <li class="prize">Homemade batch of cookies</li>
+      </ul>
+    </section>
+
+
+    <section id="standings">
+      <h2>Standings</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>Won</th>
+            <th>Tied</th>
+            <th>Points</th>
+          </tr>
+        </thead>
+        <tbody id="standings-body">
+        </tbody>
+      </table>
+    </section>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
