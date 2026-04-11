@@ -96,11 +96,12 @@ init()
 
 
 function renderBubbleChart(scores) {
-  // const width = window.innerWidth > 600 ? 600 : window.innerWidth - 20
-  // const height = 400
+  const container = document.getElementById('bubble-chart')
+  const width = container.clientWidth
+  const height = Math.min(width, 500) 
 
-  const width =  1000
-  const height = 800
+  // const width =  1000
+  // const height = 800
 
 
   const svg = d3.select('#bubble-svg')
@@ -110,9 +111,13 @@ function renderBubbleChart(scores) {
   // scale bubble size to total points
   const maxPoints = d3.max(scores, p => p.totalPoints)
   const minPoints = d3.min(scores, p => p.totalPoints)
+
+  const maxRadius = width < 400 ? 25 : 100
   const sizeScale = d3.scaleSqrt()
     .domain([minPoints, maxPoints])
-    .range([10, 80])
+    .range([10, maxRadius])
+    //     .domain([minPoints, maxPoints])
+    // .range([10, 80])
 
 
 const winRate = d => d.matchesWon / d.matchesPlayed
@@ -131,14 +136,22 @@ const colorScale = d3.scaleSequential()
   }))
 
   // force simulation packs bubbles without overlap
-  const simulation = d3.forceSimulation(nodes)
-    .force('charge', d3.forceManyBody().strength(5))
-    .force('center', d3.forceCenter(width / 2, height / 2))
-    .force('collision', d3.forceCollide(d => d.r + 2))
-    .stop()
+  // const simulation = d3.forceSimulation(nodes)
+  //   .force('charge', d3.forceManyBody().strength(5))
+  //   .force('center', d3.forceCenter(width / 2, height / 2))
+  //   .force('collision', d3.forceCollide(d => d.r + 2))
+  //   .stop()
+
+const simulation = d3.forceSimulation(nodes)
+  .force('charge', d3.forceManyBody().strength(5))
+  .force('center', d3.forceCenter(width / 2, height / 2))
+  .force('collision', d3.forceCollide(d => d.r + 2))
+  .force('x', d3.forceX(width / 2).strength(0.05))  // pull toward center x
+  .force('y', d3.forceY(height / 2).strength(0.15))  // pull toward center y
+  .stop()
 
   // run simulation synchronously
-  for (let i = 0; i < 300; i++) simulation.tick()
+  for (let i = 0; i < 500; i++) simulation.tick()
 
 const tooltip = d3.select('#tooltip')
 
