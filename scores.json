@@ -3,361 +3,588 @@
   "scores": [
     {
       "rank": 1,
-      "name": "Aisling",
-      "matchesWon": 8,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 29.8,
-      "biggestWin": 1.5,
-      "weeksSkipped": 0,
-      "partialPointQs": 8,
-      "perfectQs": 2
-    },
-    {
-      "rank": 2,
-      "name": "Jace",
-      "matchesWon": 7,
+      "name": "Stienna",
+      "matchesWon": 1,
       "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 26.9,
-      "biggestWin": 3.5,
-      "weeksSkipped": 1,
-      "partialPointQs": 9,
-      "perfectQs": 0
+      "totalPoints": 4,
+      "biggestWin": 4,
+      "weeksSkipped": 0
     },
     {
-      "rank": 3,
-      "name": "Ava R",
-      "matchesWon": 6,
+      "rank": 1,
+      "name": "Jessica K",
+      "matchesWon": 1,
       "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 27.9,
-      "biggestWin": 3.3,
-      "weeksSkipped": 0,
-      "partialPointQs": 7,
-      "perfectQs": 3
+      "totalPoints": 4,
+      "biggestWin": 4,
+      "weeksSkipped": 0
     },
     {
-      "rank": 4,
-      "name": "Shepherd",
-      "matchesWon": 6,
+      "rank": 1,
+      "name": "Jeremy",
+      "matchesWon": 1,
       "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 26.4,
-      "biggestWin": 3.1,
-      "weeksSkipped": 0,
-      "partialPointQs": 8,
-      "perfectQs": 2
+      "totalPoints": 4,
+      "biggestWin": 4,
+      "weeksSkipped": 0
     },
     {
-      "rank": 5,
-      "name": "Maceo",
-      "matchesWon": 6,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 25.3,
+      "rank": 1,
+      "name": "Patrick McVeety",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "totalPoints": 4,
       "biggestWin": 1,
-      "weeksSkipped": 1,
-      "partialPointQs": 7,
-      "perfectQs": 2
+      "weeksSkipped": 0
     },
     {
-      "rank": 6,
-      "name": "Clomp",
-      "matchesWon": 6,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 24.2,
-      "biggestWin": 0.7999999999999998,
-      "weeksSkipped": 1,
-      "partialPointQs": 8,
-      "perfectQs": 1
+      "rank": 1,
+      "name": "Tiffany",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "totalPoints": 4,
+      "biggestWin": 1,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 1,
+      "name": "Travis B",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "totalPoints": 4,
+      "biggestWin": 1,
+      "weeksSkipped": 0
     },
     {
       "rank": 7,
-      "name": "Saul",
-      "matchesWon": 5,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 28.6,
-      "biggestWin": 3.3,
-      "weeksSkipped": 0,
-      "partialPointQs": 9,
-      "perfectQs": 1
-    },
-    {
-      "rank": 8,
-      "name": "Ernesto",
-      "matchesWon": 5,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 26.6,
-      "biggestWin": 3,
-      "weeksSkipped": 0,
-      "partialPointQs": 6,
-      "perfectQs": 4
-    },
-    {
-      "rank": 9,
-      "name": "Laverne",
-      "matchesWon": 5,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 24.5,
-      "biggestWin": 3,
-      "weeksSkipped": 1,
-      "partialPointQs": 6,
-      "perfectQs": 3
-    },
-    {
-      "rank": 10,
-      "name": "Elian",
-      "matchesWon": 5,
+      "name": "Caswell",
+      "matchesWon": 1,
       "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 19.4,
-      "biggestWin": 2.5,
-      "weeksSkipped": 3,
-      "partialPointQs": 5,
-      "perfectQs": 2
+      "totalPoints": 3,
+      "biggestWin": 3,
+      "weeksSkipped": 0
     },
     {
-      "rank": 11,
-      "name": "Paloma",
-      "matchesWon": 4,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 28.4,
+      "rank": 7,
+      "name": "Light & Variable",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "totalPoints": 3,
+      "biggestWin": 3,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 7,
+      "name": "Christine",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "totalPoints": 3,
+      "biggestWin": 3,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 7,
+      "name": "Emma W",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "totalPoints": 3,
+      "biggestWin": 3,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 7,
+      "name": "Hannah G",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "totalPoints": 3,
+      "biggestWin": 2,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 7,
+      "name": "Hiroaki",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "totalPoints": 3,
+      "biggestWin": 0.5,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 7,
+      "name": "Kyle",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "totalPoints": 3,
       "biggestWin": 1,
-      "weeksSkipped": 0,
-      "partialPointQs": 6,
-      "perfectQs": 4
+      "weeksSkipped": 0
     },
     {
-      "rank": 12,
-      "name": "Benji",
-      "matchesWon": 4,
+      "rank": 7,
+      "name": "Dennis",
+      "matchesWon": 1,
       "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 26.8,
-      "biggestWin": 1.6,
-      "weeksSkipped": 0,
-      "partialPointQs": 8,
-      "perfectQs": 2
+      "totalPoints": 3,
+      "biggestWin": 3,
+      "weeksSkipped": 0
     },
     {
-      "rank": 13,
-      "name": "Lila",
-      "matchesWon": 4,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 26.2,
-      "biggestWin": 1.7999999999999998,
-      "weeksSkipped": 0,
-      "partialPointQs": 6,
-      "perfectQs": 4
-    },
-    {
-      "rank": 14,
-      "name": "Rupert",
-      "matchesWon": 4,
+      "rank": 7,
+      "name": "Sue",
+      "matchesWon": 1,
       "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 26.1,
-      "biggestWin": 1.5,
-      "weeksSkipped": 0,
-      "partialPointQs": 9,
-      "perfectQs": 1
+      "totalPoints": 3,
+      "biggestWin": 3,
+      "weeksSkipped": 0
     },
     {
-      "rank": 15,
-      "name": "Jay",
-      "matchesWon": 4,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 26,
-      "biggestWin": 1.2,
-      "weeksSkipped": 0,
-      "partialPointQs": 8,
-      "perfectQs": 2
-    },
-    {
-      "rank": 15,
-      "name": "Keith",
-      "matchesWon": 4,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 26,
-      "biggestWin": 1.2999999999999998,
-      "weeksSkipped": 0,
-      "partialPointQs": 8,
-      "perfectQs": 2
+      "rank": 7,
+      "name": "Walter",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "totalPoints": 3,
+      "biggestWin": 1,
+      "weeksSkipped": 0
     },
     {
       "rank": 17,
-      "name": "Patricio",
-      "matchesWon": 3,
-      "matchesTied": 3,
-      "matchesPlayed": 10,
-      "totalPoints": 26.4,
-      "biggestWin": 2.5,
-      "weeksSkipped": 0,
-      "partialPointQs": 10,
-      "perfectQs": 0
+      "name": "Tocino",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "totalPoints": 2.5,
+      "biggestWin": 0.5,
+      "weeksSkipped": 0
     },
     {
       "rank": 18,
-      "name": "Watto",
-      "matchesWon": 3,
+      "name": "Downstairs Katie ",
+      "matchesWon": 0,
       "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 23.1,
-      "biggestWin": 1.5,
-      "weeksSkipped": 1,
-      "partialPointQs": 8,
-      "perfectQs": 1
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
     },
     {
-      "rank": 19,
-      "name": "Lil",
-      "matchesWon": 2,
-      "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 24,
-      "biggestWin": 1.5,
-      "weeksSkipped": 1,
-      "partialPointQs": 7,
-      "perfectQs": 2
+      "rank": 18,
+      "name": "Bobby A",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
     },
     {
-      "rank": 20,
-      "name": "Sara",
-      "matchesWon": 2,
+      "rank": 18,
+      "name": "Bobby F",
+      "matchesWon": 0,
       "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 19.1,
-      "biggestWin": 0.7999999999999998,
-      "weeksSkipped": 2,
-      "partialPointQs": 3,
-      "perfectQs": 5
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Burglar",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Cheryl",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Dana",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Galen",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Gigs",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Joe M",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Justini",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Nathan",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Nick Nack",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Seth",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Travis J",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 18,
+      "name": "Shannon",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 3,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 33,
+      "name": "Marie",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 2.5,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 34,
+      "name": "Alex W",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 2,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 34,
+      "name": "Hakaru",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 2,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 34,
+      "name": "Holly W",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 2,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 34,
+      "name": "Honda",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 2,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 34,
+      "name": "Maya",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "totalPoints": 2,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 39,
+      "name": "Katie",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 1,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 40,
+      "name": "Chance",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
+    },
+    {
+      "rank": 40,
+      "name": "Cormac",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
+    },
+    {
+      "rank": 40,
+      "name": "Fatty",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 40,
+      "name": "Finley",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 40,
+      "name": "Fiona",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 40,
+      "name": "Hajime",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
+    },
+    {
+      "rank": 40,
+      "name": "Joe R",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 40,
+      "name": "James of Bicycling Fame",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
+    },
+    {
+      "rank": 40,
+      "name": "Kayla",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
+    },
+    {
+      "rank": 40,
+      "name": "Natsuko",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 40,
+      "name": "Noah",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
+    },
+    {
+      "rank": 40,
+      "name": "Ruslan",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
+    },
+    {
+      "rank": 40,
+      "name": "Samuel",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 40,
+      "name": "Sarah",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
+    },
+    {
+      "rank": 40,
+      "name": "Sawyer",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 0
+    },
+    {
+      "rank": 40,
+      "name": "Taylor",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
+    },
+    {
+      "rank": 40,
+      "name": "Yui",
+      "matchesWon": 0,
+      "matchesTied": 0,
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 0
     }
   ],
   "biggestBlowout": {
-    "margin": 3.5,
-    "winner": "Jace",
-    "loser": "Elian",
-    "week": 7
+    "margin": 4,
+    "winner": "Jeremy",
+    "loser": "Hajime",
+    "week": 1
   },
   "hardestQuestions": [
     {
-      "question": "What is the hardest natural substance?",
-      "category": "Geography",
-      "difficulty": "hard",
-      "avgPoints": 0.2,
-      "timesAsked": 5
+      "question": "A Snail Can Sleep For How Many Years?",
+      "category": "",
+      "difficulty": "3",
+      "avgPoints": 0.20930232558139536,
+      "timesAsked": 43
     },
     {
-      "question": "What is frozen water called?",
-      "category": "Movies & TV",
-      "difficulty": "medium",
-      "avgPoints": 0.3,
-      "timesAsked": 5
+      "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
+      "category": "",
+      "difficulty": "2",
+      "avgPoints": 0.6744186046511628,
+      "timesAsked": 43
     },
     {
-      "question": "How many teeth do adults have?",
-      "category": "History",
-      "difficulty": "hard",
-      "avgPoints": 0.3,
-      "timesAsked": 5
-    },
-    {
-      "question": "What gas do plants absorb?",
-      "category": "Geography",
-      "difficulty": "hard",
-      "avgPoints": 0.36,
-      "timesAsked": 5
-    },
-    {
-      "question": "Who wrote Crime and Punishment?",
-      "category": "Science",
-      "difficulty": "hard",
-      "avgPoints": 0.3933333333333333,
-      "timesAsked": 15
+      "question": "“Bovine Spongiform Encephalopathy” is also known as what disease that has affected over 184,000 cattle in the United Kingdom from 1986-2015?",
+      "category": "",
+      "difficulty": "1",
+      "avgPoints": 0.8837209302325582,
+      "timesAsked": 43
     }
   ],
   "easiestQuestions": [
     {
-      "question": "What color is the sky?",
-      "category": "Geography",
-      "difficulty": "easy",
-      "avgPoints": 0.92,
-      "timesAsked": 15
+      "question": "A Snail Can Sleep For How Many Years?",
+      "category": "",
+      "difficulty": "3",
+      "avgPoints": 0.20930232558139536,
+      "timesAsked": 43
     },
     {
-      "question": "What is the largest ocean?",
-      "category": "Science",
-      "difficulty": "easy",
-      "avgPoints": 0.94,
-      "timesAsked": 15
+      "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
+      "category": "",
+      "difficulty": "2",
+      "avgPoints": 0.6744186046511628,
+      "timesAsked": 43
     },
     {
-      "question": "How many months in a year?",
-      "category": "Science",
-      "difficulty": "easy",
-      "avgPoints": 0.9400000000000001,
-      "timesAsked": 15
-    },
-    {
-      "question": "What is the name of the toy cowboy in Toy Story?",
-      "category": "Movies & TV",
-      "difficulty": "medium",
-      "avgPoints": 0.96,
-      "timesAsked": 5
-    },
-    {
-      "question": "Who lives in a pineapple under the sea?",
-      "category": "Geography",
-      "difficulty": "medium",
-      "avgPoints": 0.96,
-      "timesAsked": 5
+      "question": "“Bovine Spongiform Encephalopathy” is also known as what disease that has affected over 184,000 cattle in the United Kingdom from 1986-2015?",
+      "category": "",
+      "difficulty": "1",
+      "avgPoints": 0.8837209302325582,
+      "timesAsked": 43
     }
   ],
   "slackers": [
     {
-      "rank": 10,
-      "name": "Elian",
-      "matchesWon": 5,
+      "rank": 40,
+      "name": "Chance",
+      "matchesWon": 0,
       "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 19.4,
-      "biggestWin": 2.5,
-      "weeksSkipped": 3,
-      "partialPointQs": 5,
-      "perfectQs": 2
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
     },
     {
-      "rank": 20,
-      "name": "Sara",
-      "matchesWon": 2,
+      "rank": 40,
+      "name": "Cormac",
+      "matchesWon": 0,
       "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 19.1,
-      "biggestWin": 0.7999999999999998,
-      "weeksSkipped": 2,
-      "partialPointQs": 3,
-      "perfectQs": 5
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
     },
     {
-      "rank": 2,
-      "name": "Jace",
-      "matchesWon": 7,
+      "rank": 40,
+      "name": "Hajime",
+      "matchesWon": 0,
       "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 26.9,
-      "biggestWin": 3.5,
-      "weeksSkipped": 1,
-      "partialPointQs": 9,
-      "perfectQs": 0
+      "totalPoints": 0,
+      "biggestWin": 0,
+      "weeksSkipped": 1
     }
   ]
 }
