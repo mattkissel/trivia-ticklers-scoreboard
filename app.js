@@ -81,7 +81,7 @@ function renderAwardCards(data) {
 
     document.getElementById('easiest-asked-count').innerHTML = `Times Asked: ${easiestQ.timesAsked}`
     document.getElementById('easiest-correct-count').innerHTML = `Times Correct: ${easiestQ.correctCount}`
-    document.getElementById('easiest-question').innerHTML = `Question: ${hardestQ.question}`
+    document.getElementById('easiest-question').innerHTML = `Question: ${easiestQ.question}`
 
     document.getElementById('hardest-asked-count').innerHTML = `Times Asked: ${hardestQ.timesAsked}`
     document.getElementById('hardest-missed-count').innerHTML = `Times Missed: ${hardestQ.missedCount}`
