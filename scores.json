@@ -577,45 +577,57 @@
       "question": "A Snail Can Sleep For How Many Years?",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.20930232558139536,
-      "timesAsked": 43
+      "avgPoints": 0.21,
+      "timesAsked": 43,
+      "correctCount": 9,
+      "missedCount": 34
     },
     {
       "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
       "category": "",
       "difficulty": "2",
-      "avgPoints": 0.6744186046511628,
-      "timesAsked": 43
+      "avgPoints": 0.67,
+      "timesAsked": 43,
+      "correctCount": 28,
+      "missedCount": 13
     },
     {
       "question": "“Bovine Spongiform Encephalopathy” is also known as what disease that has affected over 184,000 cattle in the United Kingdom from 1986-2015?",
       "category": "",
       "difficulty": "1",
-      "avgPoints": 0.8837209302325582,
-      "timesAsked": 43
+      "avgPoints": 0.88,
+      "timesAsked": 43,
+      "correctCount": 38,
+      "missedCount": 5
     }
   ],
   "easiestQuestions": [
     {
-      "question": "A Snail Can Sleep For How Many Years?",
+      "question": "“Bovine Spongiform Encephalopathy” is also known as what disease that has affected over 184,000 cattle in the United Kingdom from 1986-2015?",
       "category": "",
-      "difficulty": "3",
-      "avgPoints": 0.20930232558139536,
-      "timesAsked": 43
+      "difficulty": "1",
+      "avgPoints": 0.88,
+      "timesAsked": 43,
+      "correctCount": 38,
+      "missedCount": 5
     },
     {
       "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
       "category": "",
       "difficulty": "2",
-      "avgPoints": 0.6744186046511628,
-      "timesAsked": 43
+      "avgPoints": 0.67,
+      "timesAsked": 43,
+      "correctCount": 28,
+      "missedCount": 13
     },
     {
-      "question": "“Bovine Spongiform Encephalopathy” is also known as what disease that has affected over 184,000 cattle in the United Kingdom from 1986-2015?",
+      "question": "A Snail Can Sleep For How Many Years?",
       "category": "",
-      "difficulty": "1",
-      "avgPoints": 0.8837209302325582,
-      "timesAsked": 43
+      "difficulty": "3",
+      "avgPoints": 0.21,
+      "timesAsked": 43,
+      "correctCount": 9,
+      "missedCount": 34
     }
   ],
   "slackers": [
