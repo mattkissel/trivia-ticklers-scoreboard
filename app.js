@@ -15,7 +15,7 @@ function renderAwardCards(data) {
     const maxMatchesWon = leader.matchesWon;
     
     const leaders = data.scores.filter(p => p.totalPoints === maxPoints && p.matchesWon === maxMatchesWon);
-    document.getElementById('leader-info').innerHTML = `${maxMatchesWon} match won, ${maxPoints} scored`;
+    document.getElementById('leader-info').innerHTML = `${maxMatchesWon} match won, ${maxPoints} points scored`;
     const leaderHtml = document.getElementById('leader-players');
     leaderHtml.innerHTML = leaders.map(player => `
         <div class="card-player">
@@ -24,12 +24,9 @@ function renderAwardCards(data) {
     `).join(''
     );
 
-
-
-
     const pointLeaders = data.scores.filter(p => p.totalPoints === maxPoints);
     const scorerhtml = document.getElementById('top-scorers');
-    document.getElementById('top-score').innerHTML = maxPoints;
+    document.getElementById('top-score').innerHTML = `Score: ${maxPoints}`;
     scorerhtml.innerHTML = pointLeaders.map(player => `
         <div class="card-player">
             ${player.name}
@@ -78,6 +75,18 @@ function renderAwardCards(data) {
         </div>
     `).join(''
     );
+
+    const easiestQ = data.easiestQuestions[0]
+    const hardestQ = data.hardestQuestions[0]
+
+    document.getElementById('easiest-asked-count').innerHTML = `Times Asked: ${easiestQ.timesAsked}`
+    document.getElementById('easiest-correct-count').innerHTML = `Times Correct: ${easiestQ.correctCount}`
+    document.getElementById('easiest-question').innerHTML = `Question: ${hardestQ.question}`
+
+    document.getElementById('hardest-asked-count').innerHTML = `Times Asked: ${hardestQ.timesAsked}`
+    document.getElementById('hardest-missed-count').innerHTML = `Times Missed: ${hardestQ.missedCount}`
+    document.getElementById('hardest-question').innerHTML = `Question: ${hardestQ.question}`
+
 }
 
 function renderStandings(scores) {
