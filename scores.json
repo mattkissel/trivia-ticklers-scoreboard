@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "4/12/2026",
+  "lastUpdated": "4/13/2026",
   "scores": [
     {
       "rank": 1,
@@ -15,24 +15,12 @@
     },
     {
       "rank": 2,
-      "name": "Light & Variable",
-      "matchesWon": 2,
-      "matchesTied": 0,
-      "matchesPlayed": 2,
-      "totalPoints": 6,
-      "biggestWin": 3,
-      "weeksSkipped": 0,
-      "partialPointQs": 0,
-      "perfectQs": 4
-    },
-    {
-      "rank": 2,
       "name": "Jessica K",
       "matchesWon": 2,
       "matchesTied": 0,
       "matchesPlayed": 2,
       "totalPoints": 6,
-      "biggestWin": 4,
+      "biggestWin": 1,
       "weeksSkipped": 0,
       "partialPointQs": 0,
       "perfectQs": 4
@@ -50,7 +38,19 @@
       "perfectQs": 4
     },
     {
-      "rank": 5,
+      "rank": 4,
+      "name": "Caswell",
+      "matchesWon": 2,
+      "matchesTied": 0,
+      "matchesPlayed": 2,
+      "totalPoints": 5,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 3
+    },
+    {
+      "rank": 4,
       "name": "Hannah G",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -93,6 +93,18 @@
       "matchesPlayed": 2,
       "totalPoints": 6,
       "biggestWin": 1,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 4
+    },
+    {
+      "rank": 8,
+      "name": "Light & Variable",
+      "matchesWon": 1,
+      "matchesTied": 1,
+      "matchesPlayed": 2,
+      "totalPoints": 6,
+      "biggestWin": 1.2,
       "weeksSkipped": 0,
       "partialPointQs": 0,
       "perfectQs": 4
@@ -146,7 +158,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Downstairs Katie ",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -158,7 +170,7 @@
       "perfectQs": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Bobby F",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -170,7 +182,7 @@
       "perfectQs": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Nathan",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -182,7 +194,19 @@
       "perfectQs": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
+      "name": "Sarah",
+      "matchesWon": 1,
+      "matchesTied": 1,
+      "matchesPlayed": 2,
+      "totalPoints": 5,
+      "biggestWin": 2,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 3
+    },
+    {
+      "rank": 14,
       "name": "Shannon",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -194,7 +218,7 @@
       "perfectQs": 3
     },
     {
-      "rank": 17,
+      "rank": 19,
       "name": "Burglar",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -206,7 +230,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 17,
+      "rank": 19,
       "name": "Cheryl",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -218,7 +242,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 17,
+      "rank": 19,
       "name": "Dennis",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -230,7 +254,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 20,
+      "rank": 22,
       "name": "Hiroaki",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -242,20 +266,8 @@
       "perfectQs": 2
     },
     {
-      "rank": 20,
-      "name": "Honda",
-      "matchesWon": 1,
-      "matchesTied": 0,
-      "matchesPlayed": 2,
-      "totalPoints": 4,
-      "biggestWin": 2,
-      "weeksSkipped": 0,
-      "partialPointQs": 0,
-      "perfectQs": 2
-    },
-    {
-      "rank": 20,
-      "name": "Patrick McVeety",
+      "rank": 22,
+      "name": "Loud Patrick",
       "matchesWon": 1,
       "matchesTied": 0,
       "matchesPlayed": 2,
@@ -266,19 +278,7 @@
       "perfectQs": 3
     },
     {
-      "rank": 20,
-      "name": "Seth",
-      "matchesWon": 1,
-      "matchesTied": 1,
-      "matchesPlayed": 2,
-      "totalPoints": 4,
-      "biggestWin": 1,
-      "weeksSkipped": 0,
-      "partialPointQs": 0,
-      "perfectQs": 2
-    },
-    {
-      "rank": 20,
+      "rank": 22,
       "name": "Walter",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -286,18 +286,6 @@
       "totalPoints": 4,
       "biggestWin": 1,
       "weeksSkipped": 0,
-      "partialPointQs": 0,
-      "perfectQs": 2
-    },
-    {
-      "rank": 25,
-      "name": "Caswell",
-      "matchesWon": 1,
-      "matchesTied": 0,
-      "matchesPlayed": 2,
-      "totalPoints": 3,
-      "biggestWin": 3,
-      "weeksSkipped": 1,
       "partialPointQs": 0,
       "perfectQs": 2
     },
@@ -338,7 +326,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Tocino",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -350,7 +338,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Katie",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -362,7 +350,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Galen",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -372,6 +360,54 @@
       "weeksSkipped": 0,
       "partialPointQs": 0,
       "perfectQs": 3
+    },
+    {
+      "rank": 30,
+      "name": "James of Bicycling Fame",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "matchesPlayed": 2,
+      "totalPoints": 5,
+      "biggestWin": 0,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 3
+    },
+    {
+      "rank": 32,
+      "name": "Honda",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "matchesPlayed": 2,
+      "totalPoints": 4,
+      "biggestWin": 0,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 2
+    },
+    {
+      "rank": 32,
+      "name": "Joe M",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "matchesPlayed": 2,
+      "totalPoints": 4,
+      "biggestWin": 0,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 2
+    },
+    {
+      "rank": 32,
+      "name": "Seth",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "matchesPlayed": 2,
+      "totalPoints": 4,
+      "biggestWin": 0,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 2
     },
     {
       "rank": 32,
@@ -386,7 +422,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 33,
+      "rank": 36,
       "name": "Marie",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -398,7 +434,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 34,
+      "rank": 37,
       "name": "Gigs",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -410,7 +446,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 34,
+      "rank": 37,
       "name": "Hakaru",
       "matchesWon": 0,
       "matchesTied": 2,
@@ -422,19 +458,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 34,
-      "name": "Joe M",
-      "matchesWon": 0,
-      "matchesTied": 1,
-      "matchesPlayed": 2,
-      "totalPoints": 3,
-      "biggestWin": 0,
-      "weeksSkipped": 1,
-      "partialPointQs": 0,
-      "perfectQs": 2
-    },
-    {
-      "rank": 34,
+      "rank": 37,
       "name": "Nick Nack",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -446,7 +470,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 38,
+      "rank": 40,
       "name": "Alex W",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -458,7 +482,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 38,
+      "rank": 40,
       "name": "Holly W",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -470,7 +494,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 40,
+      "rank": 42,
       "name": "Chance",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -482,7 +506,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 40,
+      "rank": 42,
       "name": "Cormac",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -494,19 +518,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 40,
-      "name": "James of Bicycling Fame",
-      "matchesWon": 0,
-      "matchesTied": 0,
-      "matchesPlayed": 2,
-      "totalPoints": 0,
-      "biggestWin": 0,
-      "weeksSkipped": 2,
-      "partialPointQs": 0,
-      "perfectQs": 0
-    },
-    {
-      "rank": 40,
+      "rank": 42,
       "name": "Kayla",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -518,7 +530,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 40,
+      "rank": 42,
       "name": "Noah",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -530,7 +542,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 40,
+      "rank": 42,
       "name": "Ruslan",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -542,19 +554,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 40,
-      "name": "Sarah",
-      "matchesWon": 0,
-      "matchesTied": 0,
-      "matchesPlayed": 2,
-      "totalPoints": 0,
-      "biggestWin": 0,
-      "weeksSkipped": 2,
-      "partialPointQs": 0,
-      "perfectQs": 0
-    },
-    {
-      "rank": 40,
+      "rank": 42,
       "name": "Taylor",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -577,46 +577,46 @@
       "question": "A Snail Can Sleep For How Many Years?",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.21,
-      "timesAsked": 43,
+      "avgPoints": 0.2,
+      "timesAsked": 44,
       "correctCount": 9,
-      "missedCount": 34
+      "missedCount": 35
     },
     {
       "question": "In what mountain range will you find Mount Hoverla, the highest peak in Ukraine?",
       "category": "",
       "difficulty": "2",
       "avgPoints": 0.03,
-      "timesAsked": 29,
+      "timesAsked": 33,
       "correctCount": 1,
-      "missedCount": 28
+      "missedCount": 32
     },
     {
       "question": "Among Land Animals, What Species Has The Largest Eyes?",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.18,
-      "timesAsked": 29,
+      "avgPoints": 0.15,
+      "timesAsked": 33,
       "correctCount": 5,
-      "missedCount": 23
+      "missedCount": 27
     },
     {
       "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
       "category": "",
       "difficulty": "2",
-      "avgPoints": 0.67,
-      "timesAsked": 43,
-      "correctCount": 28,
-      "missedCount": 13
+      "avgPoints": 0.7,
+      "timesAsked": 44,
+      "correctCount": 30,
+      "missedCount": 12
     },
     {
       "question": "A Dark 'n' Stormy cocktail is a bar staple in many countries, including England and Bermuda. To make it, one mixes rum with what kind of spiced carbonated beverage?",
       "category": "",
       "difficulty": "1",
-      "avgPoints": 0.63,
-      "timesAsked": 29,
-      "correctCount": 15,
-      "missedCount": 10
+      "avgPoints": 0.64,
+      "timesAsked": 33,
+      "correctCount": 18,
+      "missedCount": 11
     }
   ],
   "easiestQuestions": [
@@ -624,51 +624,51 @@
       "question": "“Bovine Spongiform Encephalopathy” is also known as what disease that has affected over 184,000 cattle in the United Kingdom from 1986-2015?",
       "category": "",
       "difficulty": "1",
-      "avgPoints": 0.88,
-      "timesAsked": 43,
-      "correctCount": 38,
-      "missedCount": 5
+      "avgPoints": 0.91,
+      "timesAsked": 44,
+      "correctCount": 40,
+      "missedCount": 4
     },
     {
       "question": "A Dark 'n' Stormy cocktail is a bar staple in many countries, including England and Bermuda. To make it, one mixes rum with what kind of spiced carbonated beverage?",
       "category": "",
       "difficulty": "1",
-      "avgPoints": 0.63,
-      "timesAsked": 29,
-      "correctCount": 15,
-      "missedCount": 10
+      "avgPoints": 0.64,
+      "timesAsked": 33,
+      "correctCount": 18,
+      "missedCount": 11
     },
     {
       "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
       "category": "",
       "difficulty": "2",
-      "avgPoints": 0.67,
-      "timesAsked": 43,
-      "correctCount": 28,
-      "missedCount": 13
+      "avgPoints": 0.7,
+      "timesAsked": 44,
+      "correctCount": 30,
+      "missedCount": 12
     },
     {
       "question": "Among Land Animals, What Species Has The Largest Eyes?",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.18,
-      "timesAsked": 29,
+      "avgPoints": 0.15,
+      "timesAsked": 33,
       "correctCount": 5,
-      "missedCount": 23
+      "missedCount": 27
     },
     {
       "question": "In what mountain range will you find Mount Hoverla, the highest peak in Ukraine?",
       "category": "",
       "difficulty": "2",
       "avgPoints": 0.03,
-      "timesAsked": 29,
+      "timesAsked": 33,
       "correctCount": 1,
-      "missedCount": 28
+      "missedCount": 32
     }
   ],
   "slackers": [
     {
-      "rank": 40,
+      "rank": 42,
       "name": "Chance",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -680,7 +680,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 40,
+      "rank": 42,
       "name": "Cormac",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -692,8 +692,8 @@
       "perfectQs": 0
     },
     {
-      "rank": 40,
-      "name": "James of Bicycling Fame",
+      "rank": 42,
+      "name": "Kayla",
       "matchesWon": 0,
       "matchesTied": 0,
       "matchesPlayed": 2,
