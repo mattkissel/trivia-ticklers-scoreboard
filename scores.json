@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "4/13/2026",
+  "lastUpdated": "4/14/2026",
   "scores": [
     {
       "rank": 1,
@@ -123,24 +123,24 @@
     },
     {
       "rank": 8,
-      "name": "Stienna",
-      "matchesWon": 1,
-      "matchesTied": 0,
-      "matchesPlayed": 2,
-      "totalPoints": 6,
-      "biggestWin": 4,
-      "weeksSkipped": 0,
-      "partialPointQs": 0,
-      "perfectQs": 4
-    },
-    {
-      "rank": 8,
       "name": "Justini",
       "matchesWon": 1,
       "matchesTied": 1,
       "matchesPlayed": 2,
       "totalPoints": 6,
       "biggestWin": 1,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 4
+    },
+    {
+      "rank": 8,
+      "name": "Kayla",
+      "matchesWon": 1,
+      "matchesTied": 1,
+      "matchesPlayed": 2,
+      "totalPoints": 6,
+      "biggestWin": 2,
       "weeksSkipped": 0,
       "partialPointQs": 0,
       "perfectQs": 4
@@ -183,7 +183,7 @@
     },
     {
       "rank": 14,
-      "name": "Nathan",
+      "name": "Brandy",
       "matchesWon": 1,
       "matchesTied": 1,
       "matchesPlayed": 2,
@@ -291,18 +291,6 @@
     },
     {
       "rank": 25,
-      "name": "Emma W",
-      "matchesWon": 1,
-      "matchesTied": 0,
-      "matchesPlayed": 2,
-      "totalPoints": 3,
-      "biggestWin": 3,
-      "weeksSkipped": 1,
-      "partialPointQs": 0,
-      "perfectQs": 2
-    },
-    {
-      "rank": 25,
       "name": "Maya",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -326,7 +314,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Tocino",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -338,7 +326,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Katie",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -348,6 +336,30 @@
       "weeksSkipped": 0,
       "partialPointQs": 0,
       "perfectQs": 0
+    },
+    {
+      "rank": 29,
+      "name": "Stevena",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "matchesPlayed": 2,
+      "totalPoints": 6,
+      "biggestWin": 0,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 4
+    },
+    {
+      "rank": 30,
+      "name": "Emma W",
+      "matchesWon": 0,
+      "matchesTied": 2,
+      "matchesPlayed": 2,
+      "totalPoints": 5,
+      "biggestWin": 0,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 3
     },
     {
       "rank": 30,
@@ -374,7 +386,19 @@
       "perfectQs": 3
     },
     {
-      "rank": 32,
+      "rank": 30,
+      "name": "Nathan",
+      "matchesWon": 0,
+      "matchesTied": 2,
+      "matchesPlayed": 2,
+      "totalPoints": 5,
+      "biggestWin": 0,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 3
+    },
+    {
+      "rank": 34,
       "name": "Honda",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -386,7 +410,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 32,
+      "rank": 34,
       "name": "Joe M",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -398,7 +422,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 32,
+      "rank": 34,
       "name": "Seth",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -410,7 +434,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 32,
+      "rank": 34,
       "name": "Travis J",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -422,7 +446,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 36,
+      "rank": 38,
       "name": "Marie",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -434,7 +458,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 37,
+      "rank": 39,
       "name": "Gigs",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -446,7 +470,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 37,
+      "rank": 39,
       "name": "Hakaru",
       "matchesWon": 0,
       "matchesTied": 2,
@@ -458,7 +482,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 37,
+      "rank": 39,
       "name": "Nick Nack",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -470,7 +494,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 40,
+      "rank": 42,
       "name": "Alex W",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -482,7 +506,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 40,
+      "rank": 42,
       "name": "Holly W",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -494,7 +518,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 42,
+      "rank": 44,
       "name": "Chance",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -506,7 +530,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 42,
+      "rank": 44,
       "name": "Cormac",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -518,31 +542,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 42,
-      "name": "Kayla",
-      "matchesWon": 0,
-      "matchesTied": 0,
-      "matchesPlayed": 2,
-      "totalPoints": 0,
-      "biggestWin": 0,
-      "weeksSkipped": 2,
-      "partialPointQs": 0,
-      "perfectQs": 0
-    },
-    {
-      "rank": 42,
-      "name": "Noah",
-      "matchesWon": 0,
-      "matchesTied": 0,
-      "matchesPlayed": 2,
-      "totalPoints": 0,
-      "biggestWin": 0,
-      "weeksSkipped": 2,
-      "partialPointQs": 0,
-      "perfectQs": 0
-    },
-    {
-      "rank": 42,
+      "rank": 44,
       "name": "Ruslan",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -554,7 +554,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 42,
+      "rank": 44,
       "name": "Taylor",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -574,48 +574,48 @@
   },
   "hardestQuestions": [
     {
-      "question": "A Snail Can Sleep For How Many Years?",
-      "category": "",
-      "difficulty": "3",
-      "avgPoints": 0.2,
-      "timesAsked": 44,
-      "correctCount": 9,
-      "missedCount": 35
-    },
-    {
       "question": "In what mountain range will you find Mount Hoverla, the highest peak in Ukraine?",
       "category": "",
       "difficulty": "2",
       "avgPoints": 0.03,
-      "timesAsked": 33,
+      "timesAsked": 36,
       "correctCount": 1,
-      "missedCount": 32
+      "missedCount": 35
+    },
+    {
+      "question": "A Snail Can Sleep For How Many Years?",
+      "category": "",
+      "difficulty": "3",
+      "avgPoints": 0.22,
+      "timesAsked": 45,
+      "correctCount": 10,
+      "missedCount": 35
     },
     {
       "question": "Among Land Animals, What Species Has The Largest Eyes?",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.15,
-      "timesAsked": 33,
-      "correctCount": 5,
-      "missedCount": 27
-    },
-    {
-      "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
-      "category": "",
-      "difficulty": "2",
-      "avgPoints": 0.7,
-      "timesAsked": 44,
-      "correctCount": 30,
-      "missedCount": 12
+      "avgPoints": 0.17,
+      "timesAsked": 36,
+      "correctCount": 6,
+      "missedCount": 29
     },
     {
       "question": "A Dark 'n' Stormy cocktail is a bar staple in many countries, including England and Bermuda. To make it, one mixes rum with what kind of spiced carbonated beverage?",
       "category": "",
       "difficulty": "1",
       "avgPoints": 0.64,
-      "timesAsked": 33,
-      "correctCount": 18,
+      "timesAsked": 36,
+      "correctCount": 20,
+      "missedCount": 12
+    },
+    {
+      "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
+      "category": "",
+      "difficulty": "2",
+      "avgPoints": 0.73,
+      "timesAsked": 45,
+      "correctCount": 32,
       "missedCount": 11
     }
   ],
@@ -624,51 +624,51 @@
       "question": "“Bovine Spongiform Encephalopathy” is also known as what disease that has affected over 184,000 cattle in the United Kingdom from 1986-2015?",
       "category": "",
       "difficulty": "1",
-      "avgPoints": 0.91,
-      "timesAsked": 44,
-      "correctCount": 40,
-      "missedCount": 4
+      "avgPoints": 0.93,
+      "timesAsked": 45,
+      "correctCount": 42,
+      "missedCount": 3
+    },
+    {
+      "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
+      "category": "",
+      "difficulty": "2",
+      "avgPoints": 0.73,
+      "timesAsked": 45,
+      "correctCount": 32,
+      "missedCount": 11
     },
     {
       "question": "A Dark 'n' Stormy cocktail is a bar staple in many countries, including England and Bermuda. To make it, one mixes rum with what kind of spiced carbonated beverage?",
       "category": "",
       "difficulty": "1",
       "avgPoints": 0.64,
-      "timesAsked": 33,
-      "correctCount": 18,
-      "missedCount": 11
-    },
-    {
-      "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
-      "category": "",
-      "difficulty": "2",
-      "avgPoints": 0.7,
-      "timesAsked": 44,
-      "correctCount": 30,
+      "timesAsked": 36,
+      "correctCount": 20,
       "missedCount": 12
     },
     {
       "question": "Among Land Animals, What Species Has The Largest Eyes?",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.15,
-      "timesAsked": 33,
-      "correctCount": 5,
-      "missedCount": 27
+      "avgPoints": 0.17,
+      "timesAsked": 36,
+      "correctCount": 6,
+      "missedCount": 29
     },
     {
-      "question": "In what mountain range will you find Mount Hoverla, the highest peak in Ukraine?",
+      "question": "A Snail Can Sleep For How Many Years?",
       "category": "",
-      "difficulty": "2",
-      "avgPoints": 0.03,
-      "timesAsked": 33,
-      "correctCount": 1,
-      "missedCount": 32
+      "difficulty": "3",
+      "avgPoints": 0.22,
+      "timesAsked": 45,
+      "correctCount": 10,
+      "missedCount": 35
     }
   ],
   "slackers": [
     {
-      "rank": 42,
+      "rank": 44,
       "name": "Chance",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -680,7 +680,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 42,
+      "rank": 44,
       "name": "Cormac",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -692,8 +692,8 @@
       "perfectQs": 0
     },
     {
-      "rank": 42,
-      "name": "Kayla",
+      "rank": 44,
+      "name": "Ruslan",
       "matchesWon": 0,
       "matchesTied": 0,
       "matchesPlayed": 2,
