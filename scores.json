@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "4/20/2026",
+  "lastUpdated": "4/24/2026",
   "scores": [
     {
       "rank": 1,
@@ -27,15 +27,15 @@
     },
     {
       "rank": 3,
-      "name": "Caswell",
-      "matchesWon": 3,
-      "matchesTied": 0,
+      "name": "Jeremy",
+      "matchesWon": 2,
+      "matchesTied": 1,
       "matchesPlayed": 3,
-      "totalPoints": 7,
-      "biggestWin": 3,
+      "totalPoints": 9.5,
+      "biggestWin": 4,
       "weeksSkipped": 0,
-      "partialPointQs": 0,
-      "perfectQs": 4
+      "partialPointQs": 1,
+      "perfectQs": 6
     },
     {
       "rank": 4,
@@ -51,18 +51,30 @@
     },
     {
       "rank": 5,
-      "name": "Kayla",
+      "name": "Bobby A",
       "matchesWon": 2,
       "matchesTied": 1,
       "matchesPlayed": 3,
       "totalPoints": 8.5,
-      "biggestWin": 2.5,
+      "biggestWin": 1,
       "weeksSkipped": 0,
       "partialPointQs": 1,
       "perfectQs": 5
     },
     {
-      "rank": 6,
+      "rank": 5,
+      "name": "Kayla",
+      "matchesWon": 2,
+      "matchesTied": 1,
+      "matchesPlayed": 3,
+      "totalPoints": 8.5,
+      "biggestWin": 2,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 5
+    },
+    {
+      "rank": 7,
       "name": "Jessica K",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -74,7 +86,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Brandy",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -86,7 +98,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Tiffany",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -98,19 +110,31 @@
       "perfectQs": 5
     },
     {
-      "rank": 9,
-      "name": "Downstairs Katie ",
+      "rank": 10,
+      "name": "Tocino",
       "matchesWon": 2,
       "matchesTied": 1,
       "matchesPlayed": 3,
+      "totalPoints": 7.5,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 4
+    },
+    {
+      "rank": 11,
+      "name": "Caswell",
+      "matchesWon": 2,
+      "matchesTied": 0,
+      "matchesPlayed": 3,
       "totalPoints": 7,
-      "biggestWin": 2,
+      "biggestWin": 3,
       "weeksSkipped": 0,
       "partialPointQs": 0,
       "perfectQs": 4
     },
     {
-      "rank": 9,
+      "rank": 11,
       "name": "Otsuka",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -122,19 +146,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 9,
-      "name": "Jeremy",
-      "matchesWon": 2,
-      "matchesTied": 0,
-      "matchesPlayed": 3,
-      "totalPoints": 7,
-      "biggestWin": 4,
-      "weeksSkipped": 1,
-      "partialPointQs": 0,
-      "perfectQs": 5
-    },
-    {
-      "rank": 9,
+      "rank": 11,
       "name": "Sarah",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -146,7 +158,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Dennis",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -158,28 +170,16 @@
       "perfectQs": 3
     },
     {
-      "rank": 14,
-      "name": "Sue",
-      "matchesWon": 2,
-      "matchesTied": 0,
-      "matchesPlayed": 3,
-      "totalPoints": 6,
-      "biggestWin": 3,
-      "weeksSkipped": 0,
-      "partialPointQs": 0,
-      "perfectQs": 3
-    },
-    {
       "rank": 15,
-      "name": "Hannah G",
+      "name": "Ruslan",
       "matchesWon": 2,
       "matchesTied": 0,
       "matchesPlayed": 3,
-      "totalPoints": 5,
-      "biggestWin": 2,
-      "weeksSkipped": 1,
-      "partialPointQs": 0,
-      "perfectQs": 3
+      "totalPoints": 6.3,
+      "biggestWin": 0.2999999999999998,
+      "weeksSkipped": 0,
+      "partialPointQs": 2,
+      "perfectQs": 2
     },
     {
       "rank": 16,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "name": "Dana",
-      "matchesWon": 1,
-      "matchesTied": 1,
-      "matchesPlayed": 3,
-      "totalPoints": 8.5,
-      "biggestWin": 2.5,
-      "weeksSkipped": 0,
-      "partialPointQs": 1,
-      "perfectQs": 5
-    },
-    {
-      "rank": 17,
       "name": "Stevena",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -218,7 +206,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Galen",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -230,7 +218,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Nathan",
       "matchesWon": 1,
       "matchesTied": 2,
@@ -242,7 +230,19 @@
       "perfectQs": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
+      "name": "Downstairs Katie ",
+      "matchesWon": 1,
+      "matchesTied": 2,
+      "matchesPlayed": 3,
+      "totalPoints": 7,
+      "biggestWin": 1,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 4
+    },
+    {
+      "rank": 20,
       "name": "Bobby F",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -254,16 +254,16 @@
       "perfectQs": 4
     },
     {
-      "rank": 22,
-      "name": "Cheryl",
+      "rank": 20,
+      "name": "Hannah G",
       "matchesWon": 1,
       "matchesTied": 1,
       "matchesPlayed": 3,
-      "totalPoints": 6.8,
-      "biggestWin": 1.8,
+      "totalPoints": 7,
+      "biggestWin": 2,
       "weeksSkipped": 0,
-      "partialPointQs": 1,
-      "perfectQs": 3
+      "partialPointQs": 0,
+      "perfectQs": 4
     },
     {
       "rank": 23,
@@ -272,7 +272,7 @@
       "matchesTied": 1,
       "matchesPlayed": 3,
       "totalPoints": 6.5,
-      "biggestWin": 3,
+      "biggestWin": 1,
       "weeksSkipped": 0,
       "partialPointQs": 1,
       "perfectQs": 3
@@ -288,18 +288,6 @@
       "weeksSkipped": 0,
       "partialPointQs": 1,
       "perfectQs": 3
-    },
-    {
-      "rank": 25,
-      "name": "Bobby A",
-      "matchesWon": 1,
-      "matchesTied": 1,
-      "matchesPlayed": 3,
-      "totalPoints": 6,
-      "biggestWin": 1,
-      "weeksSkipped": 1,
-      "partialPointQs": 0,
-      "perfectQs": 4
     },
     {
       "rank": 25,
@@ -324,6 +312,18 @@
       "weeksSkipped": 0,
       "partialPointQs": 2,
       "perfectQs": 2
+    },
+    {
+      "rank": 25,
+      "name": "Sue",
+      "matchesWon": 1,
+      "matchesTied": 0,
+      "matchesPlayed": 3,
+      "totalPoints": 6,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 3
     },
     {
       "rank": 28,
@@ -411,18 +411,18 @@
     },
     {
       "rank": 35,
-      "name": "Tocino",
-      "matchesWon": 1,
-      "matchesTied": 0,
+      "name": "Dana",
+      "matchesWon": 0,
+      "matchesTied": 2,
       "matchesPlayed": 3,
-      "totalPoints": 2.5,
-      "biggestWin": 0.5,
-      "weeksSkipped": 2,
+      "totalPoints": 8.5,
+      "biggestWin": 0,
+      "weeksSkipped": 0,
       "partialPointQs": 1,
-      "perfectQs": 1
+      "perfectQs": 5
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Nick Nack",
       "matchesWon": 0,
       "matchesTied": 3,
@@ -459,6 +459,18 @@
     },
     {
       "rank": 39,
+      "name": "Cheryl",
+      "matchesWon": 0,
+      "matchesTied": 1,
+      "matchesPlayed": 3,
+      "totalPoints": 6.8,
+      "biggestWin": 0,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 3
+    },
+    {
+      "rank": 40,
       "name": "Seth",
       "matchesWon": 0,
       "matchesTied": 2,
@@ -471,6 +483,18 @@
     },
     {
       "rank": 40,
+      "name": "Travis J",
+      "matchesWon": 0,
+      "matchesTied": 2,
+      "matchesPlayed": 3,
+      "totalPoints": 6,
+      "biggestWin": 0,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 3
+    },
+    {
+      "rank": 42,
       "name": "Honda",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -482,19 +506,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 40,
-      "name": "Travis J",
-      "matchesWon": 0,
-      "matchesTied": 1,
-      "matchesPlayed": 3,
-      "totalPoints": 4,
-      "biggestWin": 0,
-      "weeksSkipped": 1,
-      "partialPointQs": 0,
-      "perfectQs": 2
-    },
-    {
-      "rank": 42,
+      "rank": 43,
       "name": "Gigs",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -506,7 +518,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Holly W",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -518,7 +530,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Chance",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -530,7 +542,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Cormac",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -542,19 +554,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 44,
-      "name": "Ruslan",
-      "matchesWon": 0,
-      "matchesTied": 0,
-      "matchesPlayed": 3,
-      "totalPoints": 0,
-      "biggestWin": 0,
-      "weeksSkipped": 3,
-      "partialPointQs": 0,
-      "perfectQs": 0
-    },
-    {
-      "rank": 44,
+      "rank": 45,
       "name": "Taylor",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -577,46 +577,46 @@
       "question": "In what mountain range will you find Mount Hoverla, the highest peak in Ukraine?",
       "category": "",
       "difficulty": "2",
-      "avgPoints": 0.03,
-      "timesAsked": 40,
-      "correctCount": 1,
-      "missedCount": 39
-    },
-    {
-      "question": "A Snail Can Sleep For How Many Years?",
-      "category": "",
-      "difficulty": "3",
-      "avgPoints": 0.22,
-      "timesAsked": 45,
-      "correctCount": 10,
-      "missedCount": 35
-    },
-    {
-      "question": "Among Land Animals, What Species Has The Largest Eyes?",
-      "category": "",
-      "difficulty": "3",
-      "avgPoints": 0.18,
-      "timesAsked": 40,
-      "correctCount": 7,
-      "missedCount": 32
+      "avgPoints": 0.05,
+      "timesAsked": 42,
+      "correctCount": 2,
+      "missedCount": 40
     },
     {
       "question": "Barani, rudolph, and randolph are all techniques in which sport?",
       "category": "",
       "difficulty": "3",
       "avgPoints": 0,
-      "timesAsked": 30,
+      "timesAsked": 36,
       "correctCount": 0,
-      "missedCount": 30
+      "missedCount": 36
     },
     {
-      "question": "A Dark 'n' Stormy cocktail is a bar staple in many countries, including England and Bermuda. To make it, one mixes rum with what kind of spiced carbonated beverage?",
+      "question": "A Snail Can Sleep For How Many Years?",
       "category": "",
-      "difficulty": "1",
-      "avgPoints": 0.63,
-      "timesAsked": 40,
-      "correctCount": 22,
-      "missedCount": 14
+      "difficulty": "3",
+      "avgPoints": 0.22,
+      "timesAsked": 46,
+      "correctCount": 10,
+      "missedCount": 36
+    },
+    {
+      "question": "Among Land Animals, What Species Has The Largest Eyes?",
+      "category": "",
+      "difficulty": "3",
+      "avgPoints": 0.17,
+      "timesAsked": 42,
+      "correctCount": 7,
+      "missedCount": 34
+    },
+    {
+      "question": "A tunnel through the highest mountain in the Alps connects what two countries?",
+      "category": "",
+      "difficulty": "2",
+      "avgPoints": 0.36,
+      "timesAsked": 36,
+      "correctCount": 5,
+      "missedCount": 15
     }
   ],
   "easiestQuestions": [
@@ -624,9 +624,9 @@
       "question": "A Divorcee/ A Pirate's Map / Hugs and Kisses Symbol",
       "category": "",
       "difficulty": "1",
-      "avgPoints": 1,
-      "timesAsked": 30,
-      "correctCount": 30,
+      "avgPoints": 0.99,
+      "timesAsked": 36,
+      "correctCount": 35,
       "missedCount": 0
     },
     {
@@ -634,41 +634,41 @@
       "category": "",
       "difficulty": "1",
       "avgPoints": 0.93,
-      "timesAsked": 45,
-      "correctCount": 42,
+      "timesAsked": 46,
+      "correctCount": 43,
       "missedCount": 3
     },
     {
       "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
       "category": "",
       "difficulty": "2",
-      "avgPoints": 0.73,
-      "timesAsked": 45,
+      "avgPoints": 0.72,
+      "timesAsked": 46,
       "correctCount": 32,
-      "missedCount": 11
-    },
-    {
-      "question": "A tunnel through the highest mountain in the Alps connects what two countries?",
-      "category": "",
-      "difficulty": "2",
-      "avgPoints": 0.35,
-      "timesAsked": 30,
-      "correctCount": 4,
-      "missedCount": 13
+      "missedCount": 12
     },
     {
       "question": "A Dark 'n' Stormy cocktail is a bar staple in many countries, including England and Bermuda. To make it, one mixes rum with what kind of spiced carbonated beverage?",
       "category": "",
       "difficulty": "1",
-      "avgPoints": 0.63,
-      "timesAsked": 40,
-      "correctCount": 22,
-      "missedCount": 14
+      "avgPoints": 0.62,
+      "timesAsked": 42,
+      "correctCount": 23,
+      "missedCount": 15
+    },
+    {
+      "question": "A tunnel through the highest mountain in the Alps connects what two countries?",
+      "category": "",
+      "difficulty": "2",
+      "avgPoints": 0.36,
+      "timesAsked": 36,
+      "correctCount": 5,
+      "missedCount": 15
     }
   ],
   "slackers": [
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Chance",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -680,7 +680,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Cormac",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -692,8 +692,8 @@
       "perfectQs": 0
     },
     {
-      "rank": 44,
-      "name": "Ruslan",
+      "rank": 45,
+      "name": "Taylor",
       "matchesWon": 0,
       "matchesTied": 0,
       "matchesPlayed": 3,
