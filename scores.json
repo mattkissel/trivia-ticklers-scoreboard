@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "4/26/2026",
+  "lastUpdated": "4/29/2026",
   "scores": [
     {
       "rank": 1,
@@ -19,11 +19,11 @@
       "matchesWon": 3,
       "matchesTied": 1,
       "matchesPlayed": 4,
-      "totalPoints": 15.5,
-      "biggestWin": 5,
+      "totalPoints": 12.5,
+      "biggestWin": 2,
       "weeksSkipped": 0,
       "partialPointQs": 1,
-      "perfectQs": 7
+      "perfectQs": 8
     },
     {
       "rank": 3,
@@ -99,6 +99,18 @@
     },
     {
       "rank": 9,
+      "name": "Stevena",
+      "matchesWon": 2,
+      "matchesTied": 1,
+      "matchesPlayed": 4,
+      "totalPoints": 11.5,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 7
+    },
+    {
+      "rank": 10,
       "name": "Bobby F",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -110,7 +122,7 @@
       "perfectQs": 7
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Tocino",
       "matchesWon": 2,
       "matchesTied": 2,
@@ -122,7 +134,7 @@
       "perfectQs": 6
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Caswell",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -134,7 +146,7 @@
       "perfectQs": 6
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Sue",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -146,7 +158,7 @@
       "perfectQs": 6
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Christine",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -158,7 +170,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Hannah G",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -170,7 +182,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Justini",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -182,7 +194,7 @@
       "perfectQs": 6
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Marie",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -194,7 +206,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Dennis",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -206,7 +218,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Kayla",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -218,7 +230,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Brandy",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -230,7 +242,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Tiffany",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -242,7 +254,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Ruslan",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -254,7 +266,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Kyle",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -266,19 +278,19 @@
       "perfectQs": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Cheryl",
       "matchesWon": 1,
       "matchesTied": 1,
       "matchesPlayed": 4,
       "totalPoints": 10.8,
-      "biggestWin": 4,
+      "biggestWin": 2,
       "weeksSkipped": 0,
       "partialPointQs": 1,
       "perfectQs": 6
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Galen",
       "matchesWon": 1,
       "matchesTied": 2,
@@ -290,7 +302,7 @@
       "perfectQs": 6
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Seth",
       "matchesWon": 1,
       "matchesTied": 2,
@@ -302,7 +314,19 @@
       "perfectQs": 6
     },
     {
-      "rank": 26,
+      "rank": 27,
+      "name": "James of Bicycling Fame",
+      "matchesWon": 1,
+      "matchesTied": 1,
+      "matchesPlayed": 4,
+      "totalPoints": 9.5,
+      "biggestWin": 2,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 5
+    },
+    {
+      "rank": 28,
       "name": "Sarah",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -314,7 +338,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 27,
+      "rank": 29,
       "name": "Alex W",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -326,19 +350,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 27,
-      "name": "Stevena",
-      "matchesWon": 1,
-      "matchesTied": 1,
-      "matchesPlayed": 4,
-      "totalPoints": 8.5,
-      "biggestWin": 0.5,
-      "weeksSkipped": 1,
-      "partialPointQs": 1,
-      "perfectQs": 5
-    },
-    {
-      "rank": 29,
+      "rank": 30,
       "name": "Travis J",
       "matchesWon": 1,
       "matchesTied": 2,
@@ -350,7 +362,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Nathan",
       "matchesWon": 1,
       "matchesTied": 2,
@@ -362,7 +374,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Downstairs Katie ",
       "matchesWon": 1,
       "matchesTied": 2,
@@ -374,7 +386,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Katie",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -386,7 +398,7 @@
       "perfectQs": 3
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Joe M",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -398,7 +410,7 @@
       "perfectQs": 3
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Light & Variable",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -410,7 +422,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Maya",
       "matchesWon": 1,
       "matchesTied": 2,
@@ -422,7 +434,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Hakaru",
       "matchesWon": 1,
       "matchesTied": 2,
@@ -434,7 +446,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Shannon",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -446,7 +458,7 @@
       "perfectQs": 3
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Dana",
       "matchesWon": 0,
       "matchesTied": 3,
@@ -458,34 +470,22 @@
       "perfectQs": 7
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Nick Nack",
       "matchesWon": 0,
       "matchesTied": 3,
       "matchesPlayed": 4,
-      "totalPoints": 8.5,
+      "totalPoints": 10.5,
       "biggestWin": 0,
-      "weeksSkipped": 1,
+      "weeksSkipped": 0,
       "partialPointQs": 1,
-      "perfectQs": 5
+      "perfectQs": 6
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Emma W",
       "matchesWon": 0,
       "matchesTied": 3,
-      "matchesPlayed": 4,
-      "totalPoints": 7.5,
-      "biggestWin": 0,
-      "weeksSkipped": 1,
-      "partialPointQs": 1,
-      "perfectQs": 4
-    },
-    {
-      "rank": 40,
-      "name": "James of Bicycling Fame",
-      "matchesWon": 0,
-      "matchesTied": 1,
       "matchesPlayed": 4,
       "totalPoints": 7.5,
       "biggestWin": 0,
@@ -567,10 +567,10 @@
     }
   ],
   "biggestBlowout": {
-    "margin": 5,
-    "winner": "Bobby A",
-    "loser": "Sarah",
-    "week": 4
+    "margin": 4,
+    "winner": "Jeremy",
+    "loser": "",
+    "week": 1
   },
   "hardestQuestions": [
     {
@@ -625,8 +625,8 @@
       "category": "",
       "difficulty": "1",
       "avgPoints": 1,
-      "timesAsked": 24,
-      "correctCount": 24,
+      "timesAsked": 27,
+      "correctCount": 27,
       "missedCount": 0
     },
     {
@@ -651,19 +651,19 @@
       "question": "Babs / Bobi / Barbie",
       "category": "",
       "difficulty": "2",
-      "avgPoints": 0.63,
-      "timesAsked": 24,
-      "correctCount": 15,
-      "missedCount": 9
+      "avgPoints": 0.59,
+      "timesAsked": 27,
+      "correctCount": 16,
+      "missedCount": 11
     },
     {
-      "question": "Before becoming President, Volodymyr Zelensky, was an actor. What was his profession in his most recent role before becoming President of Ukraine?",
+      "question": "In This Popular ’80s Song, What Was Jenny’s Phone Number ( by Tommy Tutone )?",
       "category": "",
-      "difficulty": "3",
-      "avgPoints": 0.65,
-      "timesAsked": 24,
-      "correctCount": 11,
-      "missedCount": 11
+      "difficulty": "2",
+      "avgPoints": 0.72,
+      "timesAsked": 46,
+      "correctCount": 32,
+      "missedCount": 12
     }
   ],
   "slackers": [
