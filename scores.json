@@ -1,29 +1,17 @@
 {
-  "lastUpdated": "6/8/2026",
+  "lastUpdated": "6/17/2026",
   "scores": [
     {
       "rank": 1,
       "name": "Chip",
-      "matchesWon": 9,
-      "matchesTied": 1,
+      "matchesWon": 8,
+      "matchesTied": 2,
       "matchesPlayed": 10,
       "totalPoints": 32.5,
       "biggestWin": 3.5,
       "weeksSkipped": 0,
       "partialPointQs": 1,
       "perfectQs": 22
-    },
-    {
-      "rank": 2,
-      "name": "Matt Daaaamonn",
-      "matchesWon": 8,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 28.5,
-      "biggestWin": 3,
-      "weeksSkipped": 0,
-      "partialPointQs": 1,
-      "perfectQs": 18
     },
     {
       "rank": 2,
@@ -38,43 +26,79 @@
       "perfectQs": 18
     },
     {
-      "rank": 4,
-      "name": "Cheryl",
+      "rank": 3,
+      "name": "Bobby F",
       "matchesWon": 7,
-      "matchesTied": 1,
+      "matchesTied": 2,
       "matchesPlayed": 10,
-      "totalPoints": 29.8,
+      "totalPoints": 31,
       "biggestWin": 4,
       "weeksSkipped": 0,
-      "partialPointQs": 1,
+      "partialPointQs": 0,
+      "perfectQs": 21
+    },
+    {
+      "rank": 4,
+      "name": "Jessica K",
+      "matchesWon": 7,
+      "matchesTied": 2,
+      "matchesPlayed": 10,
+      "totalPoints": 29,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
       "perfectQs": 19
     },
     {
       "rank": 5,
-      "name": "Burglar",
-      "matchesWon": 6,
+      "name": "Matt Daaaamonn",
+      "matchesWon": 7,
       "matchesTied": 2,
       "matchesPlayed": 10,
-      "totalPoints": 23.8,
-      "biggestWin": 2,
-      "weeksSkipped": 1,
+      "totalPoints": 28.5,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
       "partialPointQs": 1,
-      "perfectQs": 14
+      "perfectQs": 18
     },
     {
       "rank": 6,
+      "name": "Justini",
+      "matchesWon": 6,
+      "matchesTied": 4,
+      "matchesPlayed": 10,
+      "totalPoints": 29,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 19
+    },
+    {
+      "rank": 7,
+      "name": "Downstairs Katie ",
+      "matchesWon": 6,
+      "matchesTied": 3,
+      "matchesPlayed": 10,
+      "totalPoints": 27.5,
+      "biggestWin": 4,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 17
+    },
+    {
+      "rank": 8,
       "name": "Sue",
       "matchesWon": 6,
       "matchesTied": 0,
       "matchesPlayed": 10,
       "totalPoints": 23,
-      "biggestWin": 3,
+      "biggestWin": 2,
       "weeksSkipped": 1,
       "partialPointQs": 0,
       "perfectQs": 14
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "Walter",
       "matchesWon": 6,
       "matchesTied": 1,
@@ -86,19 +110,31 @@
       "perfectQs": 11
     },
     {
-      "rank": 8,
-      "name": "Bobby F",
+      "rank": 10,
+      "name": "Cheryl",
+      "matchesWon": 5,
+      "matchesTied": 3,
+      "matchesPlayed": 10,
+      "totalPoints": 29.8,
+      "biggestWin": 4,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 19
+    },
+    {
+      "rank": 11,
+      "name": "Burglar",
       "matchesWon": 5,
       "matchesTied": 2,
       "matchesPlayed": 10,
-      "totalPoints": 25,
-      "biggestWin": 4,
-      "weeksSkipped": 2,
-      "partialPointQs": 0,
-      "perfectQs": 17
+      "totalPoints": 23.8,
+      "biggestWin": 2,
+      "weeksSkipped": 1,
+      "partialPointQs": 1,
+      "perfectQs": 14
     },
     {
-      "rank": 9,
+      "rank": 12,
       "name": "Travis B",
       "matchesWon": 5,
       "matchesTied": 2,
@@ -110,31 +146,7 @@
       "perfectQs": 15
     },
     {
-      "rank": 10,
-      "name": "Galen",
-      "matchesWon": 5,
-      "matchesTied": 3,
-      "matchesPlayed": 10,
-      "totalPoints": 20.5,
-      "biggestWin": 2,
-      "weeksSkipped": 1,
-      "partialPointQs": 1,
-      "perfectQs": 11
-    },
-    {
-      "rank": 11,
-      "name": "Dennis",
-      "matchesWon": 5,
-      "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 18.8,
-      "biggestWin": 3,
-      "weeksSkipped": 2,
-      "partialPointQs": 1,
-      "perfectQs": 10
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "name": "Joe M",
       "matchesWon": 5,
       "matchesTied": 1,
@@ -146,7 +158,7 @@
       "perfectQs": 11
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Otsuka",
       "matchesWon": 5,
       "matchesTied": 0,
@@ -158,7 +170,31 @@
       "perfectQs": 8
     },
     {
-      "rank": 14,
+      "rank": 15,
+      "name": "Dana",
+      "matchesWon": 4,
+      "matchesTied": 5,
+      "matchesPlayed": 10,
+      "totalPoints": 27.5,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 17
+    },
+    {
+      "rank": 16,
+      "name": "Maya",
+      "matchesWon": 4,
+      "matchesTied": 4,
+      "matchesPlayed": 10,
+      "totalPoints": 26.6,
+      "biggestWin": 4,
+      "weeksSkipped": 0,
+      "partialPointQs": 2,
+      "perfectQs": 16
+    },
+    {
+      "rank": 17,
       "name": "Nick Nack",
       "matchesWon": 4,
       "matchesTied": 5,
@@ -170,19 +206,7 @@
       "perfectQs": 14
     },
     {
-      "rank": 15,
-      "name": "Dana",
-      "matchesWon": 4,
-      "matchesTied": 3,
-      "matchesPlayed": 10,
-      "totalPoints": 23.5,
-      "biggestWin": 3,
-      "weeksSkipped": 2,
-      "partialPointQs": 1,
-      "perfectQs": 15
-    },
-    {
-      "rank": 16,
+      "rank": 18,
       "name": "Nathan",
       "matchesWon": 4,
       "matchesTied": 3,
@@ -194,7 +218,19 @@
       "perfectQs": 12
     },
     {
-      "rank": 17,
+      "rank": 19,
+      "name": "Galen",
+      "matchesWon": 4,
+      "matchesTied": 3,
+      "matchesPlayed": 10,
+      "totalPoints": 20.5,
+      "biggestWin": 2,
+      "weeksSkipped": 1,
+      "partialPointQs": 1,
+      "perfectQs": 11
+    },
+    {
+      "rank": 20,
       "name": "Kyle",
       "matchesWon": 4,
       "matchesTied": 3,
@@ -206,19 +242,31 @@
       "perfectQs": 9
     },
     {
-      "rank": 18,
-      "name": "Justini",
+      "rank": 21,
+      "name": "Dennis",
+      "matchesWon": 4,
+      "matchesTied": 0,
+      "matchesPlayed": 10,
+      "totalPoints": 18.8,
+      "biggestWin": 3,
+      "weeksSkipped": 2,
+      "partialPointQs": 1,
+      "perfectQs": 10
+    },
+    {
+      "rank": 22,
+      "name": "Travis J",
       "matchesWon": 4,
       "matchesTied": 2,
       "matchesPlayed": 10,
       "totalPoints": 18,
-      "biggestWin": 3,
-      "weeksSkipped": 4,
+      "biggestWin": 2,
+      "weeksSkipped": 2,
       "partialPointQs": 0,
-      "perfectQs": 12
+      "perfectQs": 10
     },
     {
-      "rank": 19,
+      "rank": 23,
       "name": "Christine",
       "matchesWon": 4,
       "matchesTied": 2,
@@ -230,7 +278,7 @@
       "perfectQs": 10
     },
     {
-      "rank": 20,
+      "rank": 24,
       "name": "Loud Patrick",
       "matchesWon": 4,
       "matchesTied": 0,
@@ -242,43 +290,19 @@
       "perfectQs": 10
     },
     {
-      "rank": 21,
-      "name": "Jessica K",
-      "matchesWon": 4,
-      "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 14,
-      "biggestWin": 3,
-      "weeksSkipped": 5,
-      "partialPointQs": 0,
-      "perfectQs": 9
-    },
-    {
-      "rank": 22,
+      "rank": 25,
       "name": "Light & Variable",
       "matchesWon": 3,
       "matchesTied": 2,
       "matchesPlayed": 10,
       "totalPoints": 19,
-      "biggestWin": 4,
+      "biggestWin": 1.2,
       "weeksSkipped": 3,
       "partialPointQs": 0,
       "perfectQs": 12
     },
     {
-      "rank": 23,
-      "name": "Downstairs Katie ",
-      "matchesWon": 3,
-      "matchesTied": 3,
-      "matchesPlayed": 10,
-      "totalPoints": 18,
-      "biggestWin": 4,
-      "weeksSkipped": 4,
-      "partialPointQs": 0,
-      "perfectQs": 12
-    },
-    {
-      "rank": 24,
+      "rank": 26,
       "name": "Caswell",
       "matchesWon": 3,
       "matchesTied": 1,
@@ -290,7 +314,7 @@
       "perfectQs": 9
     },
     {
-      "rank": 24,
+      "rank": 26,
       "name": "Jeremy",
       "matchesWon": 3,
       "matchesTied": 1,
@@ -302,19 +326,7 @@
       "perfectQs": 10
     },
     {
-      "rank": 24,
-      "name": "Sarah",
-      "matchesWon": 3,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 17,
-      "biggestWin": 2,
-      "weeksSkipped": 2,
-      "partialPointQs": 0,
-      "perfectQs": 9
-    },
-    {
-      "rank": 27,
+      "rank": 28,
       "name": "Brandy",
       "matchesWon": 3,
       "matchesTied": 2,
@@ -326,7 +338,7 @@
       "perfectQs": 9
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Marie",
       "matchesWon": 3,
       "matchesTied": 2,
@@ -338,7 +350,7 @@
       "perfectQs": 7
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Seth",
       "matchesWon": 2,
       "matchesTied": 4,
@@ -350,7 +362,7 @@
       "perfectQs": 11
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Emma W",
       "matchesWon": 2,
       "matchesTied": 4,
@@ -362,7 +374,19 @@
       "perfectQs": 11
     },
     {
-      "rank": 31,
+      "rank": 32,
+      "name": "Sarah",
+      "matchesWon": 2,
+      "matchesTied": 1,
+      "matchesPlayed": 10,
+      "totalPoints": 17,
+      "biggestWin": 2,
+      "weeksSkipped": 2,
+      "partialPointQs": 0,
+      "perfectQs": 9
+    },
+    {
+      "rank": 33,
       "name": "Shannon",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -374,7 +398,7 @@
       "perfectQs": 7
     },
     {
-      "rank": 32,
+      "rank": 34,
       "name": "James of Bicycling Fame",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -386,7 +410,7 @@
       "perfectQs": 6
     },
     {
-      "rank": 33,
+      "rank": 35,
       "name": "Tocino",
       "matchesWon": 2,
       "matchesTied": 2,
@@ -398,7 +422,7 @@
       "perfectQs": 6
     },
     {
-      "rank": 34,
+      "rank": 36,
       "name": "Kayla",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -410,7 +434,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 35,
+      "rank": 37,
       "name": "Ruslan",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -422,7 +446,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 36,
+      "rank": 38,
       "name": "Katie",
       "matchesWon": 1,
       "matchesTied": 2,
@@ -434,19 +458,7 @@
       "perfectQs": 7
     },
     {
-      "rank": 37,
-      "name": "Travis J",
-      "matchesWon": 1,
-      "matchesTied": 2,
-      "matchesPlayed": 10,
-      "totalPoints": 10,
-      "biggestWin": 2,
-      "weeksSkipped": 5,
-      "partialPointQs": 0,
-      "perfectQs": 5
-    },
-    {
-      "rank": 38,
+      "rank": 39,
       "name": "Hannah G",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -458,7 +470,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Alex W",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -470,7 +482,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Tiffany",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -482,7 +494,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Gigs",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -492,18 +504,6 @@
       "weeksSkipped": 8,
       "partialPointQs": 0,
       "perfectQs": 3
-    },
-    {
-      "rank": 42,
-      "name": "Maya",
-      "matchesWon": 0,
-      "matchesTied": 2,
-      "matchesPlayed": 10,
-      "totalPoints": 5.5,
-      "biggestWin": 0,
-      "weeksSkipped": 7,
-      "partialPointQs": 1,
-      "perfectQs": 2
     },
     {
       "rank": 43,
@@ -610,13 +610,13 @@
       "missedCount": 35
     },
     {
-      "question": "Before being destroyed by the Russians, Ukraine was home to the worlds heaviest what?",
+      "question": "Born in Copenhagen in 1958, which Danish-British comedian (and co-founder of the Women's Equality Party) presented Fifteen-to-One, The Great British Bake Off, and QI?",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.15,
-      "timesAsked": 34,
-      "correctCount": 5,
-      "missedCount": 29
+      "avgPoints": 0.08,
+      "timesAsked": 33,
+      "correctCount": 2,
+      "missedCount": 30
     }
   ],
   "easiestQuestions": [
@@ -625,8 +625,8 @@
       "category": "",
       "difficulty": "1",
       "avgPoints": 1,
-      "timesAsked": 6,
-      "correctCount": 6,
+      "timesAsked": 12,
+      "correctCount": 12,
       "missedCount": 0
     },
     {
@@ -634,8 +634,8 @@
       "category": "",
       "difficulty": "1",
       "avgPoints": 1,
-      "timesAsked": 37,
-      "correctCount": 37,
+      "timesAsked": 38,
+      "correctCount": 38,
       "missedCount": 0
     },
     {
@@ -651,19 +651,19 @@
       "question": "Does the Red Sea divide the Arabian Peninsula from Europe or from Africa?",
       "category": "",
       "difficulty": "1",
-      "avgPoints": 0.91,
-      "timesAsked": 11,
-      "correctCount": 10,
-      "missedCount": 1
+      "avgPoints": 0.88,
+      "timesAsked": 17,
+      "correctCount": 15,
+      "missedCount": 2
     },
     {
       "question": "Houston NBA'er / Roger Clemens Nickname / NASA Blaster",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.83,
-      "timesAsked": 6,
-      "correctCount": 5,
-      "missedCount": 1
+      "avgPoints": 0.79,
+      "timesAsked": 12,
+      "correctCount": 9,
+      "missedCount": 2
     }
   ],
   "slackers": [
