@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "6/17/2026",
+  "lastUpdated": "9/5/2026",
   "scores": [
     {
       "rank": 1,
@@ -63,30 +63,6 @@
     },
     {
       "rank": 6,
-      "name": "Justini",
-      "matchesWon": 6,
-      "matchesTied": 4,
-      "matchesPlayed": 10,
-      "totalPoints": 29,
-      "biggestWin": 3,
-      "weeksSkipped": 0,
-      "partialPointQs": 0,
-      "perfectQs": 19
-    },
-    {
-      "rank": 7,
-      "name": "Downstairs Katie ",
-      "matchesWon": 6,
-      "matchesTied": 3,
-      "matchesPlayed": 10,
-      "totalPoints": 27.5,
-      "biggestWin": 4,
-      "weeksSkipped": 0,
-      "partialPointQs": 1,
-      "perfectQs": 17
-    },
-    {
-      "rank": 8,
       "name": "Sue",
       "matchesWon": 6,
       "matchesTied": 0,
@@ -98,7 +74,7 @@
       "perfectQs": 14
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Walter",
       "matchesWon": 6,
       "matchesTied": 1,
@@ -110,7 +86,7 @@
       "perfectQs": 11
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Cheryl",
       "matchesWon": 5,
       "matchesTied": 3,
@@ -122,7 +98,43 @@
       "perfectQs": 19
     },
     {
+      "rank": 9,
+      "name": "Justini",
+      "matchesWon": 5,
+      "matchesTied": 5,
+      "matchesPlayed": 10,
+      "totalPoints": 29,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 19
+    },
+    {
+      "rank": 10,
+      "name": "Downstairs Katie ",
+      "matchesWon": 5,
+      "matchesTied": 4,
+      "matchesPlayed": 10,
+      "totalPoints": 27.5,
+      "biggestWin": 4,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 17
+    },
+    {
       "rank": 11,
+      "name": "Galen",
+      "matchesWon": 5,
+      "matchesTied": 3,
+      "matchesPlayed": 10,
+      "totalPoints": 24.5,
+      "biggestWin": 4,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 14
+    },
+    {
+      "rank": 12,
       "name": "Burglar",
       "matchesWon": 5,
       "matchesTied": 2,
@@ -134,7 +146,31 @@
       "perfectQs": 14
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "name": "Christine",
+      "matchesWon": 5,
+      "matchesTied": 2,
+      "matchesPlayed": 10,
+      "totalPoints": 23.5,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 13
+    },
+    {
+      "rank": 14,
+      "name": "Caswell",
+      "matchesWon": 5,
+      "matchesTied": 2,
+      "matchesPlayed": 10,
+      "totalPoints": 23,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 2,
+      "perfectQs": 12
+    },
+    {
+      "rank": 14,
       "name": "Travis B",
       "matchesWon": 5,
       "matchesTied": 2,
@@ -146,7 +182,7 @@
       "perfectQs": 15
     },
     {
-      "rank": 13,
+      "rank": 16,
       "name": "Joe M",
       "matchesWon": 5,
       "matchesTied": 1,
@@ -158,7 +194,7 @@
       "perfectQs": 11
     },
     {
-      "rank": 14,
+      "rank": 17,
       "name": "Otsuka",
       "matchesWon": 5,
       "matchesTied": 0,
@@ -170,7 +206,7 @@
       "perfectQs": 8
     },
     {
-      "rank": 15,
+      "rank": 18,
       "name": "Dana",
       "matchesWon": 4,
       "matchesTied": 5,
@@ -182,19 +218,31 @@
       "perfectQs": 17
     },
     {
-      "rank": 16,
+      "rank": 19,
       "name": "Maya",
       "matchesWon": 4,
       "matchesTied": 4,
       "matchesPlayed": 10,
       "totalPoints": 26.6,
-      "biggestWin": 4,
+      "biggestWin": 3,
       "weeksSkipped": 0,
       "partialPointQs": 2,
       "perfectQs": 16
     },
     {
-      "rank": 17,
+      "rank": 20,
+      "name": "Seth",
+      "matchesWon": 4,
+      "matchesTied": 5,
+      "matchesPlayed": 10,
+      "totalPoints": 26,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 0,
+      "perfectQs": 16
+    },
+    {
+      "rank": 21,
       "name": "Nick Nack",
       "matchesWon": 4,
       "matchesTied": 5,
@@ -206,31 +254,7 @@
       "perfectQs": 14
     },
     {
-      "rank": 18,
-      "name": "Nathan",
-      "matchesWon": 4,
-      "matchesTied": 3,
-      "matchesPlayed": 10,
-      "totalPoints": 22.5,
-      "biggestWin": 3,
-      "weeksSkipped": 0,
-      "partialPointQs": 1,
-      "perfectQs": 12
-    },
-    {
-      "rank": 19,
-      "name": "Galen",
-      "matchesWon": 4,
-      "matchesTied": 3,
-      "matchesPlayed": 10,
-      "totalPoints": 20.5,
-      "biggestWin": 2,
-      "weeksSkipped": 1,
-      "partialPointQs": 1,
-      "perfectQs": 11
-    },
-    {
-      "rank": 20,
+      "rank": 22,
       "name": "Kyle",
       "matchesWon": 4,
       "matchesTied": 3,
@@ -242,19 +266,7 @@
       "perfectQs": 9
     },
     {
-      "rank": 21,
-      "name": "Dennis",
-      "matchesWon": 4,
-      "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 18.8,
-      "biggestWin": 3,
-      "weeksSkipped": 2,
-      "partialPointQs": 1,
-      "perfectQs": 10
-    },
-    {
-      "rank": 22,
+      "rank": 23,
       "name": "Travis J",
       "matchesWon": 4,
       "matchesTied": 2,
@@ -263,18 +275,6 @@
       "biggestWin": 2,
       "weeksSkipped": 2,
       "partialPointQs": 0,
-      "perfectQs": 10
-    },
-    {
-      "rank": 23,
-      "name": "Christine",
-      "matchesWon": 4,
-      "matchesTied": 2,
-      "matchesPlayed": 10,
-      "totalPoints": 17.5,
-      "biggestWin": 3,
-      "weeksSkipped": 3,
-      "partialPointQs": 1,
       "perfectQs": 10
     },
     {
@@ -291,6 +291,18 @@
     },
     {
       "rank": 25,
+      "name": "Nathan",
+      "matchesWon": 3,
+      "matchesTied": 4,
+      "matchesPlayed": 10,
+      "totalPoints": 22.5,
+      "biggestWin": 3,
+      "weeksSkipped": 0,
+      "partialPointQs": 1,
+      "perfectQs": 12
+    },
+    {
+      "rank": 26,
       "name": "Light & Variable",
       "matchesWon": 3,
       "matchesTied": 2,
@@ -302,19 +314,19 @@
       "perfectQs": 12
     },
     {
-      "rank": 26,
-      "name": "Caswell",
+      "rank": 27,
+      "name": "Dennis",
       "matchesWon": 3,
-      "matchesTied": 1,
+      "matchesTied": 0,
       "matchesPlayed": 10,
-      "totalPoints": 17,
+      "totalPoints": 18.8,
       "biggestWin": 3,
-      "weeksSkipped": 3,
-      "partialPointQs": 2,
-      "perfectQs": 9
+      "weeksSkipped": 2,
+      "partialPointQs": 1,
+      "perfectQs": 10
     },
     {
-      "rank": 26,
+      "rank": 28,
       "name": "Jeremy",
       "matchesWon": 3,
       "matchesTied": 1,
@@ -326,55 +338,19 @@
       "perfectQs": 10
     },
     {
-      "rank": 28,
-      "name": "Brandy",
-      "matchesWon": 3,
-      "matchesTied": 2,
-      "matchesPlayed": 10,
-      "totalPoints": 16,
-      "biggestWin": 2,
-      "weeksSkipped": 3,
-      "partialPointQs": 0,
-      "perfectQs": 9
-    },
-    {
       "rank": 29,
-      "name": "Marie",
-      "matchesWon": 3,
-      "matchesTied": 2,
-      "matchesPlayed": 10,
-      "totalPoints": 14,
-      "biggestWin": 2.5,
-      "weeksSkipped": 4,
-      "partialPointQs": 2,
-      "perfectQs": 7
-    },
-    {
-      "rank": 30,
-      "name": "Seth",
-      "matchesWon": 2,
-      "matchesTied": 4,
-      "matchesPlayed": 10,
-      "totalPoints": 18,
-      "biggestWin": 3,
-      "weeksSkipped": 3,
-      "partialPointQs": 0,
-      "perfectQs": 11
-    },
-    {
-      "rank": 31,
       "name": "Emma W",
       "matchesWon": 2,
       "matchesTied": 4,
       "matchesPlayed": 10,
       "totalPoints": 17.5,
-      "biggestWin": 4,
+      "biggestWin": 2,
       "weeksSkipped": 4,
       "partialPointQs": 1,
       "perfectQs": 11
     },
     {
-      "rank": 32,
+      "rank": 30,
       "name": "Sarah",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -386,7 +362,55 @@
       "perfectQs": 9
     },
     {
+      "rank": 31,
+      "name": "Brandy",
+      "matchesWon": 2,
+      "matchesTied": 2,
+      "matchesPlayed": 10,
+      "totalPoints": 16,
+      "biggestWin": 2,
+      "weeksSkipped": 3,
+      "partialPointQs": 0,
+      "perfectQs": 9
+    },
+    {
+      "rank": 32,
+      "name": "Marie",
+      "matchesWon": 2,
+      "matchesTied": 3,
+      "matchesPlayed": 10,
+      "totalPoints": 14,
+      "biggestWin": 2.5,
+      "weeksSkipped": 4,
+      "partialPointQs": 2,
+      "perfectQs": 7
+    },
+    {
       "rank": 33,
+      "name": "Kim Cousins Roomates Friend",
+      "matchesWon": 2,
+      "matchesTied": 2,
+      "matchesPlayed": 10,
+      "totalPoints": 13.8,
+      "biggestWin": 1,
+      "weeksSkipped": 5,
+      "partialPointQs": 3,
+      "perfectQs": 7
+    },
+    {
+      "rank": 34,
+      "name": "James of Bicycling Fame",
+      "matchesWon": 2,
+      "matchesTied": 1,
+      "matchesPlayed": 10,
+      "totalPoints": 13.5,
+      "biggestWin": 2,
+      "weeksSkipped": 4,
+      "partialPointQs": 1,
+      "perfectQs": 7
+    },
+    {
+      "rank": 34,
       "name": "Shannon",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -398,19 +422,7 @@
       "perfectQs": 7
     },
     {
-      "rank": 34,
-      "name": "James of Bicycling Fame",
-      "matchesWon": 2,
-      "matchesTied": 1,
-      "matchesPlayed": 10,
-      "totalPoints": 11.5,
-      "biggestWin": 2,
-      "weeksSkipped": 5,
-      "partialPointQs": 1,
-      "perfectQs": 6
-    },
-    {
-      "rank": 35,
+      "rank": 36,
       "name": "Tocino",
       "matchesWon": 2,
       "matchesTied": 2,
@@ -422,7 +434,7 @@
       "perfectQs": 6
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Kayla",
       "matchesWon": 2,
       "matchesTied": 1,
@@ -434,7 +446,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Ruslan",
       "matchesWon": 2,
       "matchesTied": 0,
@@ -446,7 +458,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Katie",
       "matchesWon": 1,
       "matchesTied": 2,
@@ -458,7 +470,7 @@
       "perfectQs": 7
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Hannah G",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -470,7 +482,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Alex W",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -482,7 +494,7 @@
       "perfectQs": 4
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Tiffany",
       "matchesWon": 1,
       "matchesTied": 0,
@@ -494,7 +506,7 @@
       "perfectQs": 5
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Gigs",
       "matchesWon": 1,
       "matchesTied": 1,
@@ -506,7 +518,7 @@
       "perfectQs": 3
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Hakaru",
       "matchesWon": 0,
       "matchesTied": 3,
@@ -518,7 +530,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Honda",
       "matchesWon": 0,
       "matchesTied": 1,
@@ -530,7 +542,7 @@
       "perfectQs": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Holly W",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -542,19 +554,7 @@
       "perfectQs": 1
     },
     {
-      "rank": 46,
-      "name": "Cormac",
-      "matchesWon": 0,
-      "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 0,
-      "biggestWin": 0,
-      "weeksSkipped": 10,
-      "partialPointQs": 0,
-      "perfectQs": 0
-    },
-    {
-      "rank": 46,
+      "rank": 47,
       "name": "Taylor",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -578,34 +578,34 @@
       "category": "",
       "difficulty": "2",
       "avgPoints": 0.07,
-      "timesAsked": 44,
+      "timesAsked": 45,
       "correctCount": 3,
-      "missedCount": 41
+      "missedCount": 42
     },
     {
       "question": "Barani, rudolph, and randolph are all techniques in which sport?",
       "category": "",
       "difficulty": "3",
       "avgPoints": 0.05,
-      "timesAsked": 42,
+      "timesAsked": 43,
       "correctCount": 2,
-      "missedCount": 40
+      "missedCount": 41
     },
     {
       "question": "A Snail Can Sleep For How Many Years?",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.23,
-      "timesAsked": 47,
-      "correctCount": 11,
+      "avgPoints": 0.25,
+      "timesAsked": 48,
+      "correctCount": 12,
       "missedCount": 36
     },
     {
       "question": "Among Land Animals, What Species Has The Largest Eyes?",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.18,
-      "timesAsked": 44,
+      "avgPoints": 0.19,
+      "timesAsked": 45,
       "correctCount": 8,
       "missedCount": 35
     },
@@ -613,29 +613,20 @@
       "question": "Born in Copenhagen in 1958, which Danish-British comedian (and co-founder of the Women's Equality Party) presented Fifteen-to-One, The Great British Bake Off, and QI?",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.08,
-      "timesAsked": 33,
-      "correctCount": 2,
+      "avgPoints": 0.1,
+      "timesAsked": 34,
+      "correctCount": 3,
       "missedCount": 30
     }
   ],
   "easiestQuestions": [
     {
-      "question": "Dolly the Ewe's birth in 1996 and subsequent life helped prove the viability of what scientific and technological process?",
-      "category": "",
-      "difficulty": "1",
-      "avgPoints": 1,
-      "timesAsked": 12,
-      "correctCount": 12,
-      "missedCount": 0
-    },
-    {
       "question": "Although often misattributed as a French invention owing to its name and history, what macabre beheading-device was actually first used in Ireland in 1307, over 450 years before it was first used in France?",
       "category": "",
       "difficulty": "1",
       "avgPoints": 1,
-      "timesAsked": 38,
-      "correctCount": 38,
+      "timesAsked": 39,
+      "correctCount": 39,
       "missedCount": 0
     },
     {
@@ -643,44 +634,41 @@
       "category": "",
       "difficulty": "1",
       "avgPoints": 1,
-      "timesAsked": 42,
-      "correctCount": 41,
+      "timesAsked": 43,
+      "correctCount": 42,
       "missedCount": 0
     },
     {
-      "question": "Does the Red Sea divide the Arabian Peninsula from Europe or from Africa?",
+      "question": "Dolly the Ewe's birth in 1996 and subsequent life helped prove the viability of what scientific and technological process?",
       "category": "",
       "difficulty": "1",
-      "avgPoints": 0.88,
-      "timesAsked": 17,
+      "avgPoints": 0.94,
+      "timesAsked": 16,
       "correctCount": 15,
-      "missedCount": 2
+      "missedCount": 1
     },
     {
       "question": "Houston NBA'er / Roger Clemens Nickname / NASA Blaster",
       "category": "",
       "difficulty": "3",
-      "avgPoints": 0.79,
-      "timesAsked": 12,
-      "correctCount": 9,
+      "avgPoints": 0.84,
+      "timesAsked": 16,
+      "correctCount": 13,
       "missedCount": 2
+    },
+    {
+      "question": "“Bovine Spongiform Encephalopathy” is also known as what disease that has affected over 184,000 cattle in the United Kingdom from 1986-2015?",
+      "category": "",
+      "difficulty": "1",
+      "avgPoints": 0.94,
+      "timesAsked": 48,
+      "correctCount": 45,
+      "missedCount": 3
     }
   ],
   "slackers": [
     {
-      "rank": 46,
-      "name": "Cormac",
-      "matchesWon": 0,
-      "matchesTied": 0,
-      "matchesPlayed": 10,
-      "totalPoints": 0,
-      "biggestWin": 0,
-      "weeksSkipped": 10,
-      "partialPointQs": 0,
-      "perfectQs": 0
-    },
-    {
-      "rank": 46,
+      "rank": 47,
       "name": "Taylor",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -692,7 +680,7 @@
       "perfectQs": 0
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Holly W",
       "matchesWon": 0,
       "matchesTied": 0,
@@ -702,6 +690,18 @@
       "weeksSkipped": 9,
       "partialPointQs": 0,
       "perfectQs": 1
+    },
+    {
+      "rank": 43,
+      "name": "Gigs",
+      "matchesWon": 1,
+      "matchesTied": 1,
+      "matchesPlayed": 10,
+      "totalPoints": 5,
+      "biggestWin": 1,
+      "weeksSkipped": 8,
+      "partialPointQs": 0,
+      "perfectQs": 3
     }
   ]
 }
